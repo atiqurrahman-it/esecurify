@@ -186,3 +186,20 @@
     
    }
 
+
+/*Workshop_tem */
+.Workshop_tem h2{
+    font-size: 22px;
+    margin-bottom: 0;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.Workshop_tem h3{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.Workshop_tem p{
+ font-size: 18px;
+    line-height: 26px;
+}
+   
